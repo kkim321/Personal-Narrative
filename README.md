@@ -36,8 +36,10 @@ Record a short video of your story to display here on your README. You can do th
 ## Story Description
 
 Write a description of the story that your animation showcases. Give addional context for your story here in the case your animation is more abstract and only has images and little text. Lastly, include what data in your project is represented in 2D arrays and how those directly relate to the story your animation showcase.
+
 My story shows images of some of my favorite foods and foods I would like to try. I wanted to show the dfferent types of food I like to eat whether it's from different countries or different spices. My data is represented in two String 2D arrays of my favorite foods and foods I want to try. 
 ## Image Filter Analysis
 
 Choose at least 2 filters uses in your animation to explain how the pixels are modified. If you created a new image filter that was not one of the ones from this unit, make sure to explain and analyze that filter(s) before choosing ones that came from this unit.
+
 One filter I used is the negative filter where it inverts the colors of an image by substracitng eahc pixel's red, green, and blue values from 255. It swaps the light and dark areas where it makes birght areas dark and dark areas bright. A filter that I created was an upside down filter where it flips the image vertically where the top row swaps with the bottom row, the second row swaps with the second-to-last row, and so on, until the middle of the image is reached.
